@@ -1,0 +1,46 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{1D5B6ECA-FD93-4E55-9461-D22AF213CF13}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.TaskManagementSystem.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaskManagementSystem.API/Extensions/ServiceCollectionExtensions.cs">
+    <Files>
+      <File FileName="TaskManagementSystem.API/Models/TaskStatus.cs" Line="9" Column="2" />
+      <File FileName="TaskManagementSystem.API/Models/TaskEntity.cs" />
+      <File FileName="TaskManagementSystem.API/Models/TaskDto.cs" />
+      <File FileName="TaskManagementSystem.API/Repositories/TaskRepository.cs" />
+      <File FileName="TaskManagementSystem.API/Services/ITaskService.cs" />
+      <File FileName="TaskManagementSystem.API/Services/TaskService.cs" />
+      <File FileName="TaskManagementSystem.API/Services/IServiceBusHandler.cs" Line="10" Column="2" />
+      <File FileName="TaskManagementSystem.API/Services/ServiceBusHandler.cs" />
+      <File FileName="TaskManagementSystem.API/Controllers/TaskController.cs" />
+      <File FileName="TaskManagementSystem.API/Program.cs" />
+      <File FileName="TaskManagementSystem.API/Properties/launchSettings.json" />
+      <File FileName="TaskManagementSystem.API/appsettings.json" />
+      <File FileName="TaskManagementSystem.API/Profiles/TaskMappingProfile.cs" />
+      <File FileName="TaskManagementSystem.API/Data/TaskDbContext.cs" />
+      <File FileName="TaskManagementSystem.API/Repositories/ITaskRepository.cs" />
+      <File FileName="TaskManagementSystem.API/Extensions/ServiceCollectionExtensions.cs" Line="19" Column="1" />
+      <File FileName="TaskManagementSystem.API/Models/EventModels.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TaskManagementSystem" expanded="True">
+            <Node name="TaskManagementSystem.API" expanded="True">
+              <Node name="Extensions" expanded="True">
+                <Node name="ServiceCollectionExtensions.cs" selected="True" />
+              </Node>
+              <Node name="Models" expanded="True" />
+              <Node name="Profiles" expanded="True" />
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>
